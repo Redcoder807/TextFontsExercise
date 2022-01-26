@@ -49,6 +49,7 @@ li {
 
 body {
     background-image: url(starTrek.jpg);
-    background-size: cover;
     color: rgba(255,255,255, 0.6);
+    background-size: cover;
+    background-position: center;
 }
